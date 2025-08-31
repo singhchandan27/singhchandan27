@@ -29,7 +29,7 @@
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhchandan27&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhchandan27&layout=compact&theme=tokyonight)  
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhchandan27&layout=compact&theme=tokyonight)  --.
 
 ---
 <!--
