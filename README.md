@@ -1,10 +1,31 @@
 # 👋 About Me  
 
-- 🔭 **Currently Building:** Hands-on projects in **Linux** & **DevOps** (automation, CI/CD, cloud-native solutions).  
+<!-- - 🔭 **Currently Building:** Hands-on projects in **Linux** & **DevOps** (automation, CI/CD, cloud-native solutions).  
 - 🌱 **Learning Journey:** Exploring **MLOps** to scale machine learning in production.  
 - 🤝 **Collaboration Goals:** Open to working on **DevSecOps** – making DevOps pipelines more secure.  
 - 💬 **Ask Me About:** Linux internals, DevOps best practices, Docker, Kubernetes, CI/CD pipelines, and automation.  
 - ⚡ **Fun Fact:** Every shell script I write begins with `#!/bin/bash 🚀`.  
+-->
+
+#👋 Hi there, I'm a DevOps Engineer
+
+🔭 **Currently Building**  
+Enterprise-ready Linux & DevOps projects focused on **automation, CI/CD pipelines, cloud-native architectures**, and **security-by-design** practices.
+
+🌱 **Learning & Upskilling**  
+Actively exploring **MLOps** to reliably deploy, monitor, and scale machine-learning workloads in **production environments**.
+
+🤝 **Collaboration Goals**  
+Open to collaborating on **DevSecOps initiatives**, embedding **security, compliance, and governance** into DevOps pipelines — aligned with **PCI-DSS, SOC 2, and ISO 27001** controls.
+
+💬 **Ask Me About**  
+Linux internals, enterprise DevOps best practices, Docker, Kubernetes, CI/CD automation, **secure pipeline design**, **infrastructure compliance**, and audit-ready cloud setups.
+
+🛡️ **Compliance Mindset**  
+Hands-on experience working with environments governed by **PCI-DSS**, **SOC**, and **ISO** standards, ensuring traceability, least privilege, logging, and secure configurations.
+
+⚡ **Fun Fact**  
+Some people collect coffee mugs — I collect bash scripts starting with `#!/bin/bash` 😄
 
 ---
 
