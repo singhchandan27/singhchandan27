@@ -32,7 +32,8 @@
 
 ## 🏆 GitHub Trophies  
 
-[![trophy](https://github-profile-trophy.vercel.app/?singhchandan27&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=singhchandan27&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhchandan27&layout=compact&theme=tokyonight)  --.
 
